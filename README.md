@@ -22,8 +22,8 @@ The news aggregator allows users to view the latest news articles from various s
 * Run the main.py file to start the news aggregator.
 
 ## Project Resources
-- [Poster](docs/NewsAggregator.svg): Check out our project poster for a visual overview of our work!
-- [Script](docs/script.docx): Want to know more about our project? Take a look at our script to see how we built our news aggregator using Python and the newsapi.org API.
+- [Poster](/NewsAggregator.svg): Check out our project poster for a visual overview of our work!
+- [Script](/script.docx): Want to know more about our project? Take a look at our script to see how we built our news aggregator using Python and the newsapi.org API.
 
 ## Contributors
 * [Jetananda Bora](https://github.com/jsyprus)
